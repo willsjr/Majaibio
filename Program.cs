@@ -7,7 +7,7 @@ namespace helena_msumbufu
         static void Main(string[] args)
         {
             Console.WriteLine("willy ana kijicho!");
-            
+            Console.WriteLine("Bichwa baYA!");
         }
     }
 }
